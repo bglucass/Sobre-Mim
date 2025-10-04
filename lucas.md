@@ -1,7 +1,7 @@
 # Lucas
 ## Sobre mim: 
 
-Estudante de Analise e Desenvolvimento de Sistemas na Universidade Catolica de Brasilia!
+Estudante de Analise e Desenvolvimento de Sistemas na Universidade Catolica de Brasilia.Programador junior desenvolvendo habilidades em programação, principalmente, Web!
 
 ## Tecnologias: 
 
