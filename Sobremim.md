@@ -1,5 +1,4 @@
-# Lucas Alexandre Sá Borges
-###Analise e Desenvolvimento de Sistemass
+# Lucas Alexandre Sá Borges | 19 Anos | 
 
 ## Sobre mim: 
 
