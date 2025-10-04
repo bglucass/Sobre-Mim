@@ -1,4 +1,6 @@
-# Lucas
+# Lucas Alexandre Sá Borges
+###Analise e Desenvolvimento de Sistemass
+
 ## Sobre mim: 
 
 Estudante de Analise e Desenvolvimento de Sistemas na Universidade Catolica de Brasilia.Programador junior desenvolvendo habilidades em programação, principalmente, Web!
